@@ -7,9 +7,9 @@ with open(os.path.join('README.md')) as file:
 
 setup(
     name='tkvalidate',
-    packages=['tkvalidate'],
+    packages=[''],
     package_dir={'': 'src'},
-    version='1.0',
+    version='1.0.1',
     author='Vince Shores',
     author_email='vince.shores@outlook.com',
     url='https://github.com/vinceshores',
