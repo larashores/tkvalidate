@@ -1,3 +1,6 @@
+import tkinter as tk
+
+
 def float_validate(entry_widget, from_=None, to=None):
     """
     Validates an entry_widget so that only floating points within a specified range may be entered

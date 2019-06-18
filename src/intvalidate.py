@@ -1,3 +1,6 @@
+import tkinter as tk
+
+
 def int_validate(entry_widget, from_=None, to=None):
     """
     Validates an entry_widget so that only integers within a specified range may be entered
